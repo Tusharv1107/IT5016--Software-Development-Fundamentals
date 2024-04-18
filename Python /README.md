@@ -1,7 +1,7 @@
 # Turtle Game
 
 ## Introduction
-This is a simple game created using Python's Turtle module. In this game, the player controls a turtle using the left and right arrow keys to avoid collision with enemy turtles falling from the sky. The objective is to survive as long as possible without colliding with any enemy turtles.
+This is a game created using Python's Turtle module. In this game, the player controls a turtle using the left and right arrow keys to avoid collision with enemy turtles falling from the sky. The objective is to survive as long as possible without colliding with any enemy turtles.
 
 ## Instructions
 - Use the left arrow key to move the turtle left.
