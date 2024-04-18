@@ -11,8 +11,8 @@ If you guess a letter that is in the word, it will be revealed. Otherwise, you w
 Continue guessing until you either guess the word correctly or run out of attempts.
 
 ## Files Included
-hangmangame.py: The Python script containing the Hangman game implementation.
-README.md: This file, providing information about the game.
+- hangmangame.py: The Python script containing the Hangman game implementation.
+- README.md: This file, providing information about the game.
 
 ## Requirements
 Python 3.11
