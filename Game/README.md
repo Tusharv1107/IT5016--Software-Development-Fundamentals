@@ -11,8 +11,10 @@ Hangman is a classic word-guessing game where the player attempts to guess a wor
 - Continue guessing until you either guess the word correctly or run out of attempts.
 
 ## Files Included
-'hangmangame.py:' The Python script containing the Hangman game implementation.
-'README.md:' This file, providing information about the game.
+```
+hangmangame.py:The Python script containing the Hangman game implementation.
+README.md:This file, providing information about the game.
+```
 
 ## Requirements
 Python 3.11
